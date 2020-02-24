@@ -14,7 +14,7 @@ description: On riding the .NET wave and other ramblings
 url: "https://blog.buzzuti.com"
 
 # baseurl should be an empty string
-baseurl: ""
+#baseurl: ""
 
 # --- Navigation bar options --- #
 

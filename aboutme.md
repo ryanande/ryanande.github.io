@@ -4,7 +4,7 @@ title: About me
 subtitle: What a long strange trip it's been
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Ryan Anderson. I hail from Austin, TX by the way of Southern California:
 
 - I rock a great mustache
 - I'm extremely loyal to my family

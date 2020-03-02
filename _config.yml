@@ -22,13 +22,13 @@ url: "https://blog.buzzuti.com"
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - GitHub: "https://github.com/ryanande"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
 #  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+# avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -43,7 +43,7 @@ navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#f5f5f5"
 link-col: "#008AFF"
-hover-col: "#0085A1"
+hover-col: "#18AF2F"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"

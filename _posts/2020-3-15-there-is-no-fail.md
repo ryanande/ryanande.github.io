@@ -56,4 +56,10 @@ We could dissect the core issue, formalize possible course corrections together 
 
 Not only did this foster a culture of learning and growth, we also gained huge in the realms of *people are valued* and *productive collaboration*. People were engaged again, heard again, and contributing at a much higher level and passion than with a "Success vs Failure" contract.
 
-An *Outcomes* based environment provided us a velocity and cohesion that enabled the team to harness change for better, versus being smacked in the face with it.
+An *Outcomes* based environment provided us a velocity and cohesion that enabled the team to harness change for better, versus being smacked in the face with it. The team arrived at a state where looking for where we can add the grease and foster constant improvement.
+
+A big piece of this is owning it. Packaging the outcomes up in a digestible format, along with the opportunities that the team has identified and looks to leverage with solutions.
+
+## Summary
+
+Focus on the *Outcomes* of the teams actions and commitments. Drill down into those and, as a team, look for those *Opportunities* to adjust and grow. Remember, mitigation is a huge part of any task we take on. Look for the gold, and be the change as a team!
